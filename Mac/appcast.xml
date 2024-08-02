@@ -1,3 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Nox for Mac</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 02 Aug 2024 21:29:31 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://nox-devices.github.io/nox-public/Mac/Nox%20for%20Mac.zip" length="5822318" type="application/octet-stream" sparkle:edSignature="dcOqobDRpgjjSHkIMzTJMrxyrSmw3l99dR7wAaRBVrtnOPNgiNF41+Qxmhax/xWHlKiwOJQCNnNuAfN/QNSQAg=="/>
+        </item>
+    </channel>
 </rss>
