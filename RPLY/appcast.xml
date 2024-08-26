@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>RPLY</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 26 Aug 2024 09:29:31 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://nox-devices.github.io/nox-public/RPLY/RPLY.zip" length="5873054" type="application/octet-stream" sparkle:edSignature="QNNxSaPKE48wESHo0NCAid6/R2PXZ/5hDw1djjajirT/usaCwqK/zYi1PDZYnUiXbcNxHyIRpUCL0MbTPsF1AQ=="/>
+        </item>
+    </channel>
+</rss>
