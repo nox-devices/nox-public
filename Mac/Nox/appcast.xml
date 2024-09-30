@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://nox-devices.github.io/nox-public/Mac/Nox.dmg" length="5898237" type="application/octet-stream"/>
+            <enclosure url="https://nox-devices.github.io/nox-public/Mac/Nox/Nox.dmg" length="5898366" type="application/octet-stream"/>
             <sparkle:deltas>
                 <enclosure url="https://nox-devices.github.io/nox-public/Mac/Nox%20for%20Mac2-1.delta" sparkle:deltaFrom="1" length="2145670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="TrsRyMOXGYxTYbSDIH8oVupKY2KBZx+0FustTuuyynK6R/6FOK/RBK/c8L1EkQKhsLBP/5mFkVLiU4rfLNFpBQ=="/>
             </sparkle:deltas>
