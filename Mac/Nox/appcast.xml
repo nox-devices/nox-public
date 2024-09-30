@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://nox-devices.github.io/nox-public/Mac/Nox/Nox%20for%20Mac.zip" length="5873054" type="application/octet-stream" sparkle:edSignature="QNNxSaPKE48wESHo0NCAid6/R2PXZ/5hDw1djjajirT/usaCwqK/zYi1PDZYnUiXbcNxHyIRpUCL0MbTPsF1AQ=="/>
+            <enclosure url="https://nox-devices.github.io/nox-public/Mac/Nox/Nox.dmg" length="5873054" type="application/octet-stream" sparkle:edSignature="QNNxSaPKE48wESHo0NCAid6/R2PXZ/5hDw1djjajirT/usaCwqK/zYi1PDZYnUiXbcNxHyIRpUCL0MbTPsF1AQ=="/>
         </item>
     </channel>
 </rss>
