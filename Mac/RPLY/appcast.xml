@@ -4,6 +4,14 @@
         <title>RPLY</title>
         <item>
             <title>1.5</title>
+            <pubDate>Thu, 28 Nov 2024 23:44:59 +0100</pubDate>
+            <sparkle:version>20241128225751</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://nox-devices.github.io/nox-public/Mac/RPLY/RPLY.dmg" length="56790378" type="application/octet-stream" sparkle:edSignature="tHnL0+q+ze64CCpB4fgX1/LBP4jbldTvB3RI4LDSIhl4AKic0ynpZ5+bgu2J0GsP9IHnKSdMvlq9pt6i6AYvAQ=="/>
+        </item>
+        <item>
+            <title>1.5</title>
             <pubDate>Wed, 27 Nov 2024 19:53:41 +0100</pubDate>
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
