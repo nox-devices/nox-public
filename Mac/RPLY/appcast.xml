@@ -4,6 +4,14 @@
         <title>RPLY</title>
         <item>
             <title>1.5</title>
+            <pubDate>Fri, 13 Dec 2024 14:32:41 +0100</pubDate>
+            <sparkle:version>20241213141352</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://nox-devices.github.io/nox-public/Mac/RPLY/RPLY.dmg" length="77437220" type="application/octet-stream" sparkle:edSignature="bFy9gwOQ6pRmlyYpVQvIEpaevEolAgbeuUmSSgWVoS1KgG/wzjouMF6xjQ049N6OBz3vkTR64SXvuMLouiSFDw=="/>
+        </item>
+        <item>
+            <title>1.5</title>
             <pubDate>Fri, 13 Dec 2024 00:22:13 +0100</pubDate>
             <sparkle:version>20241213000616</sparkle:version>
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://nox-devices.github.io/nox-public/Mac/RPLY/RPLY.dmg" length="56790378" type="application/octet-stream" sparkle:edSignature="tHnL0+q+ze64CCpB4fgX1/LBP4jbldTvB3RI4LDSIhl4AKic0ynpZ5+bgu2J0GsP9IHnKSdMvlq9pt6i6AYvAQ=="/>
-        </item>
-        <item>
-            <title>1.5</title>
-            <pubDate>Wed, 27 Nov 2024 19:53:41 +0100</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://nox-devices.github.io/nox-public/Mac/RPLY/RPLY.dmg" length="56792003" type="application/octet-stream" sparkle:edSignature="ZnR5Mw3g7eU0gzPSvNPaw/FyZP0ZOvulPcQwjQTYr2DpB0ZC6Q9pBOTcMNC9UikoZeHC18ckDo1qO9wIaxylCw=="/>
         </item>
     </channel>
 </rss>
