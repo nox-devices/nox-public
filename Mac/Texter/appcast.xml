@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="Texter.dmg" length="19594386" type="application/octet-stream"/>
+            <enclosure url="https://nox-devices.github.io/nox-public/Mac/Texter/Texter.dmg" length="19383293" type="application/octet-stream" sparkle:edSignature="xptunyk7A5ORC8w76zrBoSH9zY3C9/UeonEm9pI8H2gD61e049r5ieCA1zAO4SmvnAVWIJ8koYXAdX04nvGiBA=="/>
         </item>
     </channel>
 </rss>
