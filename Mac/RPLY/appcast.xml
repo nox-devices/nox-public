@@ -3,12 +3,12 @@
     <channel>
         <title>RPLY</title>
         <item>
-            <title>1.9</title>
+            <title>1.10</title>
             <pubDate>Sat, 08 Feb 2025 10:38:58 +0100</pubDate>
-            <sparkle:version>20250219171859</sparkle:version>
-            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+            <sparkle:version>20250227005917</sparkle:version>
+            <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://nox-devices.github.io/nox-public/Mac/RPLY/RPLY.dmg" length="80367849" type="application/octet-stream" sparkle:edSignature="NzuKs/HVLJonavsKKyrNdR/VL+Hfzq9IOehkSdBv24AsOq364TCXp8zVlQvPM8jLvVe6ogQrtN4UFLE2pKHUCQ=="/>
+            <enclosure url="https://nox-devices.github.io/nox-public/Mac/RPLY/RPLY.dmg" length="80230848" type="application/octet-stream" sparkle:edSignature="htIYABZZVDmaul7N2tOzoVyozOd3g6Oyccr5leDJBGAr4m4kp+Gt58Ifus+LwnJg/oT0Qt02E9ijJ8q3pcbBDQ=="/>
         </item>
     </channel>
 </rss>
