@@ -8,7 +8,7 @@
             <sparkle:version>20250228213146</sparkle:version>
             <sparkle:shortVersionString>1.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://nox-devices.github.io/nox-public/Mac/RPLY/RPLY.dmg" length="367131681" type="application/octet-stream" sparkle:edSignature="ctUlxtAKou3L3noc+KV0cSdIZue3i8xo96B+xv8fcrmumILq1RNz8ZNxK/t13aMryZMqR4nBvLZnN+LV/T+RCg=="/>
+            <enclosure url="https://nox-website.s3.us-east-2.amazonaws.com/RPLY.dmg" length="367131681" type="application/octet-stream" sparkle:edSignature="ctUlxtAKou3L3noc+KV0cSdIZue3i8xo96B+xv8fcrmumILq1RNz8ZNxK/t13aMryZMqR4nBvLZnN+LV/T+RCg=="/>
         </item>
     </channel>
 </rss>
