@@ -8,7 +8,7 @@
             <sparkle:version>20250310193153</sparkle:version>
             <sparkle:shortVersionString>1.12.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://nox-website.s3.us-east-2.amazonaws.com/RPLY.dmg" length="367310950" type="application/octet-stream" sparkle:edSignature="aqPNvN5cLt7PEqdlT6OhZl6huK2HwWkuO9WQU1UI6tfzYgkWUtUiKM1bZxpfLZ+UlfphUndahNlgzLvaO+Z8Cw=="/>
+            <enclosure url="https://nox-website.s3.us-east-2.amazonaws.com/RPLY.dmg" length="367310380" type="application/octet-stream" sparkle:edSignature="ng5QHVWuMxliOEkwjuLMy6LZf2IS/AXN+psMn6i0Q69ciWAli1H5avTSATOyV1VJweDG3qDGk7GzedIKr3/iAA=="/>
         </item>
     </channel>
 </rss>
