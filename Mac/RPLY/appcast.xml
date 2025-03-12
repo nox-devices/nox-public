@@ -5,10 +5,10 @@
         <item>
             <title>1.12.2</title>
             <pubDate>Tue, 11 Mar 2025 10:47:23 -0700</pubDate>
-            <sparkle:version>20250311181843</sparkle:version>
+            <sparkle:version>20250311223619</sparkle:version>
             <sparkle:shortVersionString>1.12.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://nox-website.s3.us-east-2.amazonaws.com/RPLY.dmg" length="367327206" type="application/octet-stream" sparkle:edSignature="HCEeb+Y8PHxJnfnXLxwY8hXR8P0TeMuJDzisJNV8T0SmaYRu9sayldnzNIarPI7hmYcAWDApBJU1mEaV8fb+CQ=="/>
+            <enclosure url="https://nox-website.s3.us-east-2.amazonaws.com/RPLY.dmg" length="367315720" type="application/octet-stream" sparkle:edSignature="DQ1UKY2p0jrc9YbQiGxrKw1p5ULh2PGX/2dxarTRt8lBu1crpmnN7HUE8luf5xTrAjotVnD0tr5lWWAyQ8KJCw=="/>
         </item>
     </channel>
 </rss>
