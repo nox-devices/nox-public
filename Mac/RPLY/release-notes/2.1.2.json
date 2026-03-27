@@ -1,0 +1,51 @@
+{
+  "date" : "2026-03-19",
+  "description" : "Snooze any conversation and have it resurface automatically when you're ready. We also cut the app bundle size by ~65% and made inbox loading significantly faster.",
+  "features" : [
+    "Snooze conversations with time-based auto-restore",
+    "Connected account usernames now visible in the UI",
+    "Polished email display with better formatting, names, avatars, and links"
+  ],
+  "fixes" : [
+    "Sender names now appear on the first message in a group chat run, not the last",
+    "Tapback reaction spacing no longer overlaps sender names in group chats",
+    "Edited reply text is now sent instead of stale auto-drafts",
+    "Duplicate messages no longer fire from rapid concurrent sends",
+    "Chats no longer vanish when someone else's reaction is the latest message",
+    "Reply drafts clear correctly when switching inbox conversations",
+    "Messages window overlays will now show\/hide more consistently",
+    "App bundle size cut by ~65%",
+    "Inbox loads faster with streamed conversation deltas instead of full snapshots"
+  ],
+  "images" : [
+    "https:\/\/github.com\/user-attachments\/assets\/0f98428f-dde7-467b-86f0-d34a7a8c50e8"
+  ],
+  "prs" : [
+    1618,
+    1619,
+    1623,
+    1627,
+    1628,
+    1630,
+    1631,
+    1635,
+    1639,
+    1640,
+    1643,
+    1644,
+    1645,
+    1647,
+    1648,
+    1650,
+    1651,
+    1652,
+    1653,
+    1654,
+    1655,
+    1656,
+    1657,
+    1658
+  ],
+  "title" : "Snooze & Slim Down",
+  "version" : "2.1.2"
+}

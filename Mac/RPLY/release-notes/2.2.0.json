@@ -1,0 +1,40 @@
+{
+  "date" : "2026-03-26",
+  "description" : "A fresh Liquid Glass polish across the app with faster launch performance. AI replies now support image OCR and calendar scheduling.",
+  "features" : [
+    "Redesigned conversation view with Liquid Glass polish",
+    "Multi-select conversations in the sidebar for bulk actions",
+    "Shorter, more streamlined onboarding",
+    "AI-generated replies improved for group chats, image OCR, and calendar scheduling",
+    "Contact name suggestions now enhanced with Apple suggestions",
+    "New snapshot cache restores your inbox instantly on launch"
+  ],
+  "fixes" : [
+    "Message views now open scrolled to the latest messages",
+    "Fixed alignment issues in demo mode"
+  ],
+  "images" : [
+
+  ],
+  "prs" : [
+    1616,
+    1629,
+    1649,
+    1662,
+    1663,
+    1664,
+    1665,
+    1671,
+    1675,
+    1676,
+    1679,
+    1681,
+    1682,
+    1683,
+    1685,
+    1689,
+    1693
+  ],
+  "title" : "Smarter Replies & Liquid Glass",
+  "version" : "2.2.0"
+}

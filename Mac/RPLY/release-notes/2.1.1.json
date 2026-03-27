@@ -1,0 +1,20 @@
+{
+  "date" : "2026-03-09",
+  "description" : "AI-powered replies and classification now run server-side. We also fixed Inbox Zero and message dismissal quirks.",
+  "features" : [
+    "AI reply suggestions and classification now run on our backend, while keeping your data completely private"
+  ],
+  "fixes" : [
+    "Inbox Zero and message dismissals work correctly again",
+    "Local API docs are now grayed out when disabled",
+    "Restored missing animations in the Settings window"
+  ],
+  "prs" : [
+    1606,
+    1610,
+    1612,
+    1617
+  ],
+  "title" : "Polish & Performance Improvements",
+  "version" : "2.1.1"
+}
