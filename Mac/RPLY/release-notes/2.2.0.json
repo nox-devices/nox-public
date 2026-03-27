@@ -1,7 +1,7 @@
 {
-  "date" : "2026-03-26",
-  "description" : "A fresh Liquid Glass polish across the app with faster launch performance. AI replies now support image OCR and calendar scheduling.",
-  "features" : [
+  "date": "2026-03-26",
+  "description": "A fresh Liquid Glass polish across the app with faster launch performance. AI replies now support image OCR and calendar scheduling.",
+  "features": [
     "Redesigned conversation view with Liquid Glass polish",
     "Multi-select conversations in the sidebar for bulk actions",
     "Shorter, more streamlined onboarding",
@@ -9,14 +9,14 @@
     "Contact name suggestions now enhanced with Apple suggestions",
     "New snapshot cache restores your inbox instantly on launch"
   ],
-  "fixes" : [
+  "fixes": [
     "Message views now open scrolled to the latest messages",
     "Fixed alignment issues in demo mode"
   ],
-  "images" : [
-
+  "images": [
+    "https://raw.githubusercontent.com/nox-devices/nox-public/main/Mac/RPLY/release-notes/media/v2.1.0_mcp_demo.gif"
   ],
-  "prs" : [
+  "prs": [
     1616,
     1629,
     1649,
@@ -35,6 +35,6 @@
     1689,
     1693
   ],
-  "title" : "Smarter Replies & Liquid Glass",
-  "version" : "2.2.0"
+  "title": "Smarter Replies & Liquid Glass",
+  "version": "2.2.0"
 }
