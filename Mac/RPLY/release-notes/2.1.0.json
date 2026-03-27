@@ -1,27 +1,27 @@
 {
-  "features" : [
-    "Telegram login with OTP—no more QR codes",
+  "features": [
+    "Telegram login with OTP\u2014no more QR codes",
     "Shimmer overlays guide you through permissions setup",
     "Reset app data button when you need a fresh start",
     "Priority filters and contact categories now persist between launches",
     "Group chat support for WhatsApp with proper names and avatars",
     "RPLY MCP available for all agents"
   ],
-  "date" : "2026-03-03",
-  "title" : "RPLY MCP & Platform Improvements",
-  "fixes" : [
+  "date": "2026-03-03",
+  "title": "RPLY MCP & Platform Improvements",
+  "fixes": [
     "X DMs no longer vanish, go stale, or pick the wrong database",
     "WhatsApp QR spinner no longer hangs forever",
     "Keyboard shortcuts work on first press in two-pane layout",
     "Dark mode tapback reactions actually visible now",
     "Conversation switches don't freeze the UI mid-transition",
-    "Ghost\/Always Ignore feature works again",
+    "Ghost/Always Ignore feature works again",
     "Tab titles stop disappearing when switching via keyboard",
     "Instagram stays logged in after server restarts"
   ],
-  "description" : "RPLY MCP is here to work with all your agents.  We also squashed a few bugs to make platforms significantly more performant.",
-  "version" : "2.1.0",
-  "prs" : [
+  "description": "RPLY MCP is here to work with all your agents.  We also squashed a few bugs to make platforms significantly more performant.",
+  "version": "2.1.0",
+  "prs": [
     1598,
     1599,
     1589,
@@ -93,5 +93,8 @@
     1440,
     1441,
     1439
+  ],
+  "images": [
+    "https://raw.githubusercontent.com/nox-devices/nox-public/main/Mac/RPLY/release-notes/media/v2.1.0_mcp_demo.gif"
   ]
 }
