@@ -1,5 +1,35 @@
 [
   {
+    "date" : "2026-04-08",
+    "description" : "Swipe actions on conversation rows let you archive, snooze, or dismiss without opening a thread, and native macOS notifications now ping you when a message needs a reply.",
+    "features" : [
+      "Swipe-to-reveal actions on conversation rows for quick archive, snooze, and more",
+      "Native macOS notifications alert you when incoming messages need a reply",
+      "MCP server enables standalone conversation intelligence",
+      "Free trial sheet now appears right after onboarding",
+      "Redesigned changelog view shown before installing updates for better clarity"
+    ],
+    "fixes" : [
+      "Menu bar badge now shows only the \"Needs Reply\" conversation count instead of total unreads",
+      "Liquid Glass backgrounds now follow window corner radius correctly"
+    ],
+    "images" : [
+      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v2.2.3_pr_1.png",
+      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v2.2.3_pr_2.png"
+    ],
+    "prs" : [
+      1743,
+      1759,
+      1764,
+      1765,
+      1766,
+      1768,
+      1769
+    ],
+    "title" : "Swipe Actions & Native Notifications",
+    "version" : "2.2.3"
+  },
+  {
     "date" : "2026-04-03",
     "description" : "Discord DMs join your unified inbox, and a new unread badge on the dock icon keeps you aware at a glance.",
     "features" : [
