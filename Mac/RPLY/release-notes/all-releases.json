@@ -1,5 +1,62 @@
 [
   {
+    "date" : "2026-04-15",
+    "description" : "You can now drag and drop conversations between inboxes to organize your workflow, and a revamped startup pipeline makes the app noticeably snappier.",
+    "features" : [
+      "Drag and drop conversations between inboxes",
+      "Friends view supports multi-platform contacts with avatar badges and deduplication"
+    ],
+    "fixes" : [
+      "Send button no longer hangs when approving a reply",
+      "Gmail drafts no longer overwrite user-edited replies",
+      "Calendar auto-add no longer sends real invites or duplicates events",
+      "Notifications for old conversations are now suppressed",
+      "AI draft tone now better matches your own writing style based on your sent messages",
+      "Reply suggestions no longer fire after outgoing calls",
+      "Opening calendar events now respects your default calendar app",
+      "Dismissal state hang and stale editor on conversation switch are resolved",
+      "Completed onboarding is no longer lost when permissions go missing",
+      "Improved message classification using sender context",
+      "More reliable reply detection with fewer missed responses"
+    ],
+    "images" : [
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v2.2.4_1.png"
+    ],
+    "prs" : [
+      1770,
+      1772,
+      1773,
+      1774,
+      1775,
+      1776,
+      1777,
+      1779,
+      1780,
+      1781,
+      1782,
+      1783,
+      1784,
+      1785,
+      1788,
+      1791,
+      1795,
+      1799,
+      1800,
+      1801,
+      1802,
+      1803,
+      1804,
+      1806,
+      1807,
+      1808,
+      1809,
+      1811,
+      1818
+    ],
+    "title" : "Drag, Drop & Faster Launch",
+    "version" : "2.2.4"
+  },
+  {
     "date" : "2026-04-08",
     "description" : "Swipe actions on conversation rows let you archive, snooze, or dismiss without opening a thread, and native macOS notifications now ping you when a message needs a reply.",
     "features" : [
@@ -14,8 +71,8 @@
       "Liquid Glass backgrounds now follow window corner radius correctly"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v2.2.3_pr_1.png",
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v2.2.3_pr_2.png"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v2.2.3_pr_1.png",
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v2.2.3_pr_2.png"
     ],
     "prs" : [
       1743,
@@ -51,9 +108,9 @@
       "Reply generation is noticeably faster after onboarding"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v2.2.2_discord.png",
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v2.2.2_pr_1.png",
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v2.2.2_pr_2.png"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v2.2.2_discord.png",
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v2.2.2_pr_1.png",
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v2.2.2_pr_2.png"
     ],
     "prs" : [
       1727,
@@ -95,8 +152,8 @@
       "Faster performance with batched conversation cache rebuilds"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v2.2.1_pr_1.png",
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v2.2.1_pr_2.png"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v2.2.1_pr_1.png",
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v2.2.1_pr_2.png"
     ],
     "prs" : [
       1684,
@@ -132,7 +189,7 @@
       "Fixed alignment issues in demo mode"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v2.2.0_multiselect.gif"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v2.2.0_multiselect.gif"
     ],
     "prs" : [
       1616,
@@ -171,12 +228,12 @@
       "Duplicate messages no longer fire from rapid concurrent sends",
       "Chats no longer vanish when someone else's reaction is the latest message",
       "Reply drafts clear correctly when switching inbox conversations",
-      "Messages window overlays will now show\/hide more consistently",
+      "Messages window overlays will now show/hide more consistently",
       "App bundle size cut by ~65%",
       "Inbox loads faster with streamed conversation deltas instead of full snapshots"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v2.1.2_snooze.png"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v2.1.2_snooze.png"
     ],
     "prs" : [
       1618,
@@ -244,12 +301,12 @@
       "Keyboard shortcuts work on first press in two-pane layout",
       "Dark mode tapback reactions actually visible now",
       "Conversation switches don't freeze the UI mid-transition",
-      "Ghost\/Always Ignore feature works again",
+      "Ghost/Always Ignore feature works again",
       "Tab titles stop disappearing when switching via keyboard",
       "Instagram stays logged in after server restarts"
     ],
     "images" : [
-      "https:\/\/raw.githubusercontent.com\/nox-devices\/nox-public\/main\/Mac\/RPLY\/release-notes\/media\/v2.1.0_mcp_demo.gif"
+      "https://raw.githubusercontent.com/nox-devices/nox-public/main/Mac/RPLY/release-notes/media/v2.1.0_mcp_demo.gif"
     ],
     "prs" : [
       1598,
@@ -338,7 +395,7 @@
 
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v2_0_0_1771224295.gif"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v2_0_0_1771224295.gif"
     ],
     "prs" : [
       1470,
@@ -380,8 +437,8 @@
       "update inbox tab bar ui"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v1_17_16_1770348631.png",
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v1_17_16_1770348631_1.png"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v1_17_16_1770348631.png",
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v1_17_16_1770348631_1.png"
     ],
     "prs" : [
       1455,
@@ -426,7 +483,7 @@
       "Fixed onboarding by preventing AI reply generation for NOX support chats"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v1_17_14_onboarding.gif"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v1_17_14_onboarding.gif"
     ],
     "prs" : [
       1433
@@ -448,7 +505,7 @@
       "Various regression fixes"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v1.17.13_shortcuts.png"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v1.17.13_shortcuts.png"
     ],
     "prs" : [
       1410,
@@ -471,7 +528,7 @@
       "Performance caching between app launches for faster startup"
     ],
     "fixes" : [
-      "Fixed crashes on M1\/M2 Macs when using on-device AI embeddings",
+      "Fixed crashes on M1/M2 Macs when using on-device AI embeddings",
       "Messages now correctly marked as needing response when reply text is present",
       "Send messages from all possible sender IDs (fixes some iMessage delivery issues)",
       "Better error handling when chat database fails to load",
@@ -481,7 +538,7 @@
       "Reduced unnecessary error logging to Sentry"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/v1.17.12_priority.gif"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v1.17.12_priority.gif"
     ],
     "prs" : [
       1359,
@@ -587,7 +644,7 @@
       "Fixed crash when adding NOX contact"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1333_1.gif"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1333_1.gif"
     ],
     "title" : "Streak Tracking Improvements",
     "version" : "1.17.5"
@@ -602,7 +659,7 @@
       "Fixed crash when switching between conversations"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1338_1.png"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1338_1.png"
     ],
     "title" : "Smarter Conversation Selection",
     "version" : "1.17.4"
@@ -622,8 +679,8 @@
       "Improved demo mode display"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1272_1.jpg",
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1259_2.jpg"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1272_1.jpg",
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1259_2.jpg"
     ],
     "title" : "Smoother, Faster, More Reliable",
     "version" : "1.17.3"
@@ -643,8 +700,8 @@
       "Prevented crashes during onboarding caused by display rendering issues"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1237_3.png",
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1209_10.png"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1237_3.png",
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1209_10.png"
     ],
     "title" : "Smarter Conversations & Smoother Performance",
     "version" : "1.17.2"
@@ -663,9 +720,9 @@
       "Enhanced security with updated API key protection"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1240_1.jpg",
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1241_1.jpg",
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1238_4.jpg"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1240_1.jpg",
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1241_1.jpg",
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1238_4.jpg"
     ],
     "title" : "Smarter Filtering & Polish Updates",
     "version" : "1.17.1"
@@ -698,8 +755,8 @@
       "Corrected RPLY icon size on macOS Sonoma so it displays consistently with other apps in the Dock and System Settings"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1209_10.png",
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1209_3.png"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1209_10.png",
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1209_3.png"
     ],
     "title" : "Friends Graph Window & Polish Updates",
     "version" : "1.16.29"
@@ -756,8 +813,8 @@
       "Enhanced privacy by removing sensitive information from analytics events"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1135_1.jpg",
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1135_2.jpg"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1135_1.jpg",
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1135_2.jpg"
     ],
     "title" : "Smoother, Faster, More Polished",
     "version" : "1.16.26"
@@ -776,7 +833,7 @@
       "Removed unnecessary commentary from AI responses for cleaner conversations"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1155_2.jpg"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1155_2.jpg"
     ],
     "title" : "Privacy, Performance & Polish",
     "version" : "1.16.25"
@@ -822,7 +879,7 @@
       "Improved thread safety to prevent rare crashes when dismissing messages"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1120_3.jpg"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1120_3.jpg"
     ],
     "title" : "Faster Launch & Rock-Solid Stability",
     "version" : "1.16.22"
@@ -845,7 +902,7 @@
       "Improved floating stats overlay stability and positioning"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1115_2.jpg"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1115_2.jpg"
     ],
     "title" : "Tapbacks, Performance Boosts & Better Sync",
     "version" : "1.16.21"
@@ -866,7 +923,7 @@
       "iMessage contacts stay up-to-date automatically"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr1074_1.png"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr1074_1.png"
     ],
     "title" : "Faster, Smoother, More Beautiful",
     "version" : "1.16.20"
@@ -990,7 +1047,7 @@
       "Fixed scheduled message senders not loading correctly"
     ],
     "images" : [
-      "https:\/\/nox-devices.github.io\/nox-public\/Mac\/RPLY\/release-notes\/media\/pr549_1.jpg"
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/pr549_1.jpg"
     ],
     "title" : "Smoother Group Chats & Polish",
     "version" : "1.16.2"
