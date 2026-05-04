@@ -1,5 +1,62 @@
 [
   {
+    "date" : "2026-05-03",
+    "description" : "Signal Desktop messages now appear in your unified inbox, and AI drafts no longer interrupt you mid-keystroke.",
+    "features" : [
+      "Signal Desktop integration brings another platform into your inbox",
+      "Accessibility drag-to-grant guide overlay simplifies permissions setup"
+    ],
+    "fixes" : [
+      "AI draft no longer splices into your reply while you're still typing",
+      "Submitted text no longer reappears in the editor after sending",
+      "Telegram 2FA login has been fixed",
+      "X cookie verification respects rate limits",
+      "Keychain prompts no longer pop up on every launch",
+      "Startup warning spam is eliminated",
+      "Background daemon recovers gracefully after network listener drops"
+    ],
+    "images" : [
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v2.2.5_1.png",
+      "https://nox-devices.github.io/nox-public/Mac/RPLY/release-notes/media/v2.2.5_2.png"
+    ],
+    "prs" : [
+      1813,
+      1814,
+      1819,
+      1820,
+      1821,
+      1822,
+      1823,
+      1826,
+      1842,
+      1843,
+      1844,
+      1846,
+      1847,
+      1848,
+      1849,
+      1850,
+      1851,
+      1852,
+      1853,
+      1854,
+      1855,
+      1856,
+      1860,
+      1861,
+      1862,
+      1863,
+      1864,
+      1865,
+      1866,
+      1868,
+      1884,
+      1885
+    ],
+    "title" : "Signal & Smoother Typing",
+    "version" : "2.2.5"
+  },
+  {
     "date" : "2026-04-15",
     "description" : "You can now drag and drop conversations between inboxes to organize your workflow, and a revamped startup pipeline makes the app noticeably snappier.",
     "features" : [
